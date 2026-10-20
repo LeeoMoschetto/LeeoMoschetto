@@ -68,26 +68,47 @@ Hello! I'm **LeeoMoschetto**, a software developer passionate about technology, 
 
 ## 🚀 FEATURED PROJECTS
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+---
 
-<h3>👟 Catalogo Streetwear</h3>
+<h2 align="center">🚀 FEATURED PROJECTS // PROJECT ARCHIVE</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="100%">
+
+<h3>👟 CATALOG STREETWEAR</h3>
 
 <p>
-  A sneaker catalog project focused on product presentation,
-  organization, and a modern shopping experience.
+A sneaker catalog developed to showcase products through a modern,
+organized, and visually appealing shopping experience.
 </p>
+
+<p><strong>PROJECT HIGHLIGHTS</strong></p>
 
 <ul>
   <li>Product catalog with images and details.</li>
   <li>Product prices, sizes, and colors.</li>
-  <li>Interface built with HTML, CSS, and JavaScript.</li>
+  <li>Product organization and visual presentation.</li>
+  <li>Interface developed with HTML, CSS, and JavaScript.</li>
 </ul>
 
-<p>
-  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Ver projeto no GitHub" />
-  </a>
-</p>
+<p><strong>STATUS:</strong> In development</p>
+
+<a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
+  <img src="https://img.shields.io/badge/ACCESS_PROJECT-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Access project" />
+</a>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/MORE_PROJECTS-COMING_SOON-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="More projects coming soon" />
+
+</div>
 
 ---
 
