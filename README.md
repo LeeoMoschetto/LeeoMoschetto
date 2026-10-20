@@ -91,6 +91,31 @@ Hello! I'm **LeeoMoschetto**, a software developer passionate about technology, 
 
 ---
 
+<h2 align="center">🎓 EDUCATION // ACADEMIC BACKGROUND</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 Systems Analysis and Development</h3>
+      <p>Degree completed</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Software Engineering</h3>
+      <p>Currently completing the degree</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/KNOWLEDGE-ALWAYS_EVOLVING-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="Continuous learning" />
+
+</div>
+
+---
+
 ## 📊 GITHUB STATUS
 
 <h2 align="center">📊 GITHUB // SYSTEM STATUS</h2>
