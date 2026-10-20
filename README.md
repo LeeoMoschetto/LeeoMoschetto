@@ -66,17 +66,9 @@ Hello! I'm **LeeoMoschetto**, a software developer passionate about technology, 
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
 ---
 
 <h2 align="center">🚀 FEATURED PROJECTS // PROJECT ARCHIVE</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="100%">
 
 <h3>👟 CATALOG STREETWEAR</h3>
 
@@ -85,7 +77,7 @@ A sneaker catalog developed to showcase products through a modern,
 organized, and visually appealing shopping experience.
 </p>
 
-<p><strong>PROJECT HIGHLIGHTS</strong></p>
+<strong>PROJECT HIGHLIGHTS</strong>
 
 <ul>
   <li>Product catalog with images and details.</li>
@@ -96,18 +88,14 @@ organized, and visually appealing shopping experience.
 
 <p><strong>STATUS:</strong> In development</p>
 
-<a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
-  <img src="https://img.shields.io/badge/ACCESS_PROJECT-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Access project" />
-</a>
+<p>
+  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
+    <img src="https://img.shields.io/badge/ACCESS_PROJECT-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Access project" />
+  </a>
+</p>
 
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/MORE_PROJECTS-COMING_SOON-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="More projects coming soon" />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/MORE_PROJECTS-COMING_SOON-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="More projects coming soon" />
 </div>
 
 ---
