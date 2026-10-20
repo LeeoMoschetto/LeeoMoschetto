@@ -84,9 +84,17 @@ A web catalog project focused on showcasing sneakers through a modern shopping e
 
 ## 📊 GITHUB STATUS
 
+<h2 align="center">📊 GITHUB // SYSTEM STATUS</h2>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeeoMoschetto&color=9D00FF&style=flat-square&label=PROFILE+VIEWS)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=B266FF&icon_color=FF00FF&text_color=E6E6FA&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&hide_border=true&bg_color=0D0D12&title_color=B266FF&text_color=E6E6FA" alt="Linguagens dos repositórios" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LeeoMoschetto&color=9D00FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
 
 </div>
 
