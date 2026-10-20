@@ -68,17 +68,26 @@ Hello! I'm **LeeoMoschetto**, a software developer passionate about technology, 
 
 ## 🚀 FEATURED PROJECTS
 
-### 👟 Streetwear Sneaker Catalog
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-A web catalog project focused on showcasing sneakers through a modern shopping experience.
+<h3>👟 Catalogo Streetwear</h3>
 
-- Product catalog and visual presentation
-- Product information, prices, sizes, and colors
-- Responsive interface and user experience
+<p>
+  A sneaker catalog project focused on product presentation,
+  organization, and a modern shopping experience.
+</p>
 
-**Technologies:** HTML, CSS, JavaScript
+<ul>
+  <li>Product catalog with images and details.</li>
+  <li>Product prices, sizes, and colors.</li>
+  <li>Interface built with HTML, CSS, and JavaScript.</li>
+</ul>
 
-🔗 [Explore my repositories](https://github.com/LeeoMoschetto?tab=repositories)
+<p>
+  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Ver projeto no GitHub" />
+  </a>
+</p>
 
 ---
 
