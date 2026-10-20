@@ -38,25 +38,31 @@ Hello! I'm **LeeoMoschetto**, a software developer passionate about technology, 
 
 ---
 
-## 🛠️ TECHNOLOGIES & INTERESTS
+<h2 align="center">🟣 TECH STACK & DEVELOPMENT</h2>
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-0D0D12?style=for-the-badge&logo=php&logoColor=A970FF)
-![SQL](https://img.shields.io/badge/SQL-0D0D12?style=for-the-badge&logo=databricks&logoColor=A970FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D0D12?style=for-the-badge&logo=html5&logoColor=FF00FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D0D12?style=for-the-badge&logo=css3&logoColor=A970FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+### 💻 Web Development
+
+<img src="https://img.shields.io/badge/PHP-0D0D12?style=for-the-badge&logo=php&logoColor=B266FF" />
+<img src="https://img.shields.io/badge/HTML5-0D0D12?style=for-the-badge&logo=html5&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/CSS3-0D0D12?style=for-the-badge&logo=css3&logoColor=B266FF" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/SQL-0D0D12?style=for-the-badge&logo=databricks&logoColor=B266FF" />
+
+### ⚙️ Software Engineering
+
+<img src="https://img.shields.io/badge/Microservices-0D0D12?style=for-the-badge&logo=icloud&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/Software_Architecture-0D0D12?style=for-the-badge&logo=blueprint&logoColor=B266FF" />
+
+### 🎮 Game Development
+
+<img src="https://img.shields.io/badge/Game_Development-0D0D12?style=for-the-badge&logo=unrealengine&logoColor=FF00FF" />
 
 </div>
-
-### 🔧 Areas of Focus
-
-- **Backend:** PHP and web application development
-- **Architecture:** Microservices and software design
-- **Databases:** SQL and relational database concepts
-- **Frontend:** Web interfaces and user experience
-- **Game Development:** Game systems and interactive experiences
 
 ---
 
