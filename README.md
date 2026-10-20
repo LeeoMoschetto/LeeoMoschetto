@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/cyberpunk-banner.png" alt="Banner Cyberpunk de LeeoMoschetto" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 # 🟣 LEEOMOSCHETTO
 
