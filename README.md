@@ -123,21 +123,22 @@
 
   <!-- PAINEL CYBERPUNK: GITHUB STATUS -->
   <img
-    src="./assets/cyberpunk-github-status.svg"
+    src="./assets/cyberpunk-github-status.svg?v=2"
     width="100%"
     alt="Painel Cyberpunk — Estatísticas do GitHub"
   />
 
   <br><br>
 
-  <!-- CARTÕES DINÂMICOS DE STATS & LINGUAGENS -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <!-- CARTÕES CUSTOMIZADOS NO TEMA NEON (FUNDO #090014, BORDAS #8A2BE2 / #00F0FF) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&bg_color=090014&title_color=D946EF&text_color=00F0FF&icon_color=C026D3&border_color=8A2BE2&show_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&bg_color=090014&title_color=D946EF&text_color=00F0FF&border_color=8A2BE2&show_border=true" alt="Linguagens mais utilizadas"/>
 
   <br><br>
 
-  <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=LeeoMoschetto&theme=synthwave&hide_border=true" alt="Sequência de contribuições"/>
+  <!-- STREAK STATS CUSTOMIZADO -->
+  <img src="https://streak-stats.demolab.com?user=LeeoMoschetto&background=090014&border=8A2BE2&stroke=00F0FF&ring=D946EF&fire=D946EF&currStreakNum=00F0FF&sideNums=C084FC&currStreakLabel=00F0FF&sideLabels=C084FC&dates=8A2BE2" alt="Sequência de contribuições"/>
 
 </div>
 
