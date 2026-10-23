@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+<title id="title">Cyberpunk About Me Panel</title>
+<desc id="desc">Painel futurista preto e roxo neon para a seção Sobre Mim.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080510"/><stop offset=".55" stop-color="#10091e"/><stop offset="1" stop-color="#05040b"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#7e22ce"/><stop offset=".5" stop-color="#c026d3"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#a855f7" stroke-opacity=".12"/></pattern>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="clip"><path d="M22 18H950L978 46V284L952 312H22L10 300V38Z"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1000" height="330" fill="url(#bg)"/><rect width="1000" height="330" fill="url(#grid)"/>
+<path d="M0 250L240 20M60 330L360 30M730 330L980 100" stroke="#a855f7" stroke-opacity=".08" stroke-width="2"/>
+<rect x="36" y="35" width="5" height="260" fill="url(#neon)" opacity=".9"/>
+<path d="M56 56H275M56 64H185" stroke="url(#neon)" stroke-width="2" opacity=".8"/>
+<text x="58" y="94" fill="#d8b4fe" font-family="Consolas,monospace" font-size="14" letter-spacing="4">01 // USER PROFILE</text>
+<text x="56" y="142" fill="#ffffff" font-family="Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="1">SOBRE MIM</text>
+<text x="56" y="174" fill="#c084fc" font-family="Consolas,monospace" font-size="14" letter-spacing="2">DEVELOPER • BUILDER • PROBLEM SOLVER</text>
+<path d="M56 193H510" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+<text x="56" y="224" fill="#f3e8ff" font-family="Arial,sans-serif" font-size="16">Transformando ideias em soluções reais.</text>
+<text x="56" y="251" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="14">Web development / PHP / SQL / Microservices</text>
+<text x="56" y="275" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="14">Software Engineering / Game Development</text>
+<g transform="translate(695 72)"><path d="M0 0H220L236 16V158L220 174H0L-14 160V16Z" fill="#080511" fill-opacity=".92" stroke="#9333ea" stroke-opacity=".8"/>
+<path d="M12 24H207M12 31H142" stroke="#c026d3" stroke-opacity=".7"/>
+<circle cx="17" cy="52" r="4" fill="#e879f9"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="31" y="56" fill="#e9d5ff" font-family="Consolas,monospace" font-size="12" letter-spacing="2">SYSTEM STATUS</text>
+<text x="14" y="88" fill="#c084fc" font-family="Consolas,monospace" font-size="13">LEARNING</text>
+<rect x="14" y="98" width="196" height="7" rx="3" fill="#251239"/><rect x="14" y="98" width="150" height="7" rx="3" fill="url(#neon)"><animate attributeName="width" values="135;170;135" dur="4s" repeatCount="indefinite"/></rect>
+<text x="14" y="132" fill="#f0abfc" font-family="Consolas,monospace" font-size="11">STATUS: EVOLVING</text><text x="14" y="153" fill="#a78bfa" font-family="Consolas,monospace" font-size="10">NIGHT CITY // 2077</text></g>
+<path d="M22 18H180M22 18V70M978 260V284L952 312H880M820 312H750" fill="none" stroke="url(#neon)" stroke-width="2.5" filter="url(#glow)"/>
+<path d="M22 300L10 300V270M950 18H978V46" fill="none" stroke="#e879f9" stroke-width="2"/>
+</g><path d="M22 18H950L978 46V284L952 312H22L10 300V38Z" fill="none" stroke="url(#neon)" stroke-width="1.5" stroke-opacity=".9"/>
+</svg>
