@@ -1,0 +1,244 @@
+<svg id="cyberpunk-stack-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="100%" height="100%" style="background-color: #090014; font-family: 'Fira Code', monospace, sans-serif;">
+        <defs>
+          <!-- Neon Glow Filters -->
+          <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge>
+              <feMergeNode in="blur"/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+
+          <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+            <feMerge>
+              <feMergeNode in="blur"/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+
+          <!-- Cyber Gradients -->
+          <linearGradient id="purple-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#C026D3"/>
+            <stop offset="100%" stop-color="#00F0FF"/>
+          </linearGradient>
+
+          <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#120224" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#090014" stop-opacity="0.9"/>
+          </linearGradient>
+        </defs>
+
+        <!-- Outer Framework & Borders -->
+        <rect x="10" y="10" width="980" height="600" rx="16" fill="#090014" stroke="#8A2BE2" stroke-width="2" filter="url(#glow-purple)"/>
+        
+        <!-- Corner Tech Accents -->
+        <path d="M 20 50 L 50 20 L 180 20" fill="none" stroke="#00F0FF" stroke-width="3" filter="url(#glow-cyan)"/>
+        <path d="M 980 570 L 950 600 L 820 600" fill="none" stroke="#C026D3" stroke-width="3" filter="url(#glow-purple)"/>
+
+        <!-- Side Japanese Vertical Decorative Text -->
+        <text x="35" y="170" fill="#A855F7" font-size="14" font-weight="bold" writing-mode="tb" glyph-orientation-vertical="0" opacity="0.8">未来を創る</text>
+        <line x1="28" y1="310" x2="28" y2="430" stroke="#8A2BE2" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
+
+        <!-- TOP HEADER SECTION -->
+        <g transform="translate(60, 30)">
+          <!-- Main Title '02 // TECH STACK' -->
+          <text x="10" y="42" fill="#E879F9" font-size="34" font-weight="900" letter-spacing="2" filter="url(#glow-purple)">02 // TECH STACK</text>
+
+          <!-- System Status Pill -->
+          <g transform="translate(420, 14)">
+            <rect x="0" y="0" width="210" height="34" rx="17" fill="#120224" stroke="#8A2BE2" stroke-width="1.5"/>
+            <text x="20" y="22" fill="#00F0FF" font-size="13" font-weight="bold">&gt;_ SYSTEM ONLINE</text>
+            <circle cx="185" cy="17" r="5" fill="#00F0FF" filter="url(#glow-cyan)"/>
+          </g>
+
+          <!-- Top Right Cyber Slogan -->
+          <g transform="translate(740, 10)">
+            <text x="0" y="12" fill="#A855F7" font-size="10" font-weight="bold" letter-spacing="1">CODE</text>
+            <text x="0" y="24" fill="#A855F7" font-size="10" font-weight="bold" letter-spacing="1">BUILD</text>
+            <text x="0" y="36" fill="#A855F7" font-size="10" font-weight="bold" letter-spacing="1">IMPROVE</text>
+            <text x="0" y="48" fill="#A855F7" font-size="10" font-weight="bold" letter-spacing="1">REPEAT</text>
+          </g>
+        </g>
+
+        <!-- SUBTITLE 1 -->
+        <text x="70" y="125" fill="#C084FC" font-size="14" font-weight="700" letter-spacing="1.5">&gt; FERRAMENTAS E TECNOLOGIAS</text>
+        <line x1="70" y1="135" x2="860" y2="135" stroke="#8A2BE2" stroke-width="1" opacity="0.4"/>
+
+        <!-- GRID OF 8 TECH CARDS (2 rows x 4 cols) -->
+        <!-- ROW 1 -->
+        <!-- HTML5 -->
+        <g transform="translate(140, 155)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: HTML5 -->
+          <g transform="translate(53, 12)">
+            <path d="M0 0h34l-3 34-14 4-14-4z" fill="#E44D26"/>
+            <path d="M17 3v31l11-3 2-26z" fill="#F16529"/>
+            <path d="M8 8h18l-.5 4.5H13l.5 5h13.5l-1 11.5-9 2.5-9-2.5-.5-6h4.5l.3 2.5 4.7 1.3 4.7-1.3.5-5.5H8.5z" fill="#FFF"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">HTML</text>
+        </g>
+
+        <!-- CSS3 -->
+        <g transform="translate(310, 155)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: CSS3 -->
+          <g transform="translate(53, 12)">
+            <path d="M0 0h34l-3 34-14 4-14-4z" fill="#1572B6"/>
+            <path d="M17 3v31l11-3 2-26z" fill="#33A9DC"/>
+            <path d="M8 8h18l-.5 4.5H13l.5 5h13.5l-1 11.5-9 2.5-9-2.5-.5-6h4.5l.3 2.5 4.7 1.3 4.7-1.3.5-5.5H8.5z" fill="#FFF"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">CSS</text>
+        </g>
+
+        <!-- JAVASCRIPT -->
+        <g transform="translate(480, 155)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: JS -->
+          <g transform="translate(53, 12)">
+            <rect x="0" y="0" width="34" height="34" fill="#F7DF1E" rx="3"/>
+            <path d="M21.2 26.5c1.3 0 2.2-.6 2.2-1.8 0-1.2-.8-1.6-2.1-2.1l-.7-.3c-2-.8-3.3-1.8-3.3-3.9 0-2.2 1.8-3.8 4.5-3.8 1.8 0 3.1.5 4 1.3l-1.3 1.8c-.7-.6-1.5-1-2.6-1-1.2 0-1.9.6-1.9 1.4 0 .9.6 1.3 1.9 1.8l.7.3c2.3.9 3.6 1.8 3.6 4.1 0 2.5-1.9 4-4.8 4-2.2 0-3.8-.7-4.8-1.8l1.4-1.8c.8.9 1.9 1.4 3.3 1.4zm-11.8.2c1 .6 2 1 3.2 1 1.6 0 2.6-.7 2.6-2.6V15h2.8v10.2c0 3.3-1.9 4.6-5.1 4.6-1.8 0-3.2-.5-4.2-1.3l.7-1.8z" fill="#000"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">JAVASCRIPT</text>
+        </g>
+
+        <!-- PHP -->
+        <g transform="translate(650, 155)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: PHP -->
+          <g transform="translate(42, 16)">
+            <ellipse cx="28" cy="17" rx="28" ry="16" fill="#777BB4"/>
+            <text x="28" y="22" font-size="14" font-weight="900" fill="#000" text-anchor="middle" font-style="italic">php</text>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">PHP</text>
+        </g>
+
+        <!-- ROW 2 -->
+        <!-- MySQL -->
+        <g transform="translate(140, 260)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: MySQL Dolphin -->
+          <g transform="translate(50, 14)">
+            <path d="M28 8c-3-2-7-3-11-2-5 1-9 5-11 9-2 4-1 9 2 12 2 2 5 3 8 2l2-1c-2-1-3-3-4-5 1 1 3 1 4 1 2 0 4-1 5-2 3-2 5-6 6-9 1-3 0-4-2-5z" fill="#00892A"/>
+            <path d="M30 4c-4-2-9-1-13 1-5 3-8 8-8 14 0 3 1 6 3 8 1 1 3 1 4 0-1-2-1-4 0-6 1 1 2 2 4 2 3 0 6-2 8-5 3-4 4-9 3-13 0-1-1-1-1-1z" fill="#00758F"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">MySQL</text>
+        </g>
+
+        <!-- GIT -->
+        <g transform="translate(310, 260)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: GIT -->
+          <g transform="translate(53, 14)">
+            <path d="M32.6 14.7L19.3 1.4c-.6-.6-1.5-.6-2.1 0L13.8 4.8l4 4c.6-.2 1.3 0 1.8.5.5.5.7 1.2.5 1.8l3.9 3.9c.6-.2 1.3 0 1.8.5.7.7.7 1.8 0 2.5-.7.7-1.8.7-2.5 0-.5-.5-.7-1.2-.5-1.8l-3.6-3.6V21c.2.1.4.3.5.5.7.7.7 1.8 0 2.5-.7.7-1.8.7-2.5 0-.7-.7-.7-1.8 0-2.5.2-.2.5-.4.8-.5v-7.8c-.3-.1-.6-.3-.8-.5-.5-.5-.7-1.2-.5-1.8l-3.9-3.9-8.5 8.5c-.6.6-.6 1.5 0 2.1l13.3 13.3c.6.6 1.5.6 2.1 0l13.3-13.3c.6-.6.6-1.6 0-2.2z" fill="#F05032"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">GIT</text>
+        </g>
+
+        <!-- GITHUB -->
+        <g transform="translate(480, 260)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: GitHub Octocat -->
+          <g transform="translate(53, 12)">
+            <path d="M17 0C7.6 0 0 7.6 0 17c0 7.5 4.9 13.9 11.6 16.1.9.2 1.2-.4 1.2-.8v-3c-4.7 1-5.7-2.3-5.7-2.3-.8-2-1.9-2.5-1.9-2.5-1.5-1 .1-1 .1-1 1.7.1 2.6 1.7 2.6 1.7 1.5 2.6 3.9 1.9 4.9 1.4.2-1.1.6-1.9 1.1-2.3-3.8-.4-7.7-1.9-7.7-8.4 0-1.8.7-3.4 1.8-4.6-.2-.4-.8-2.2.2-4.6 0 0 1.4-.4 4.6 1.7 1.3-.4 2.8-.5 4.2-.5s2.9.2 4.2.5c3.2-2.1 4.6-1.7 4.6-1.7 1 2.4.4 4.2.2 4.6 1.1 1.2 1.8 2.7 1.8 4.6 0 6.6-4 8-7.8 8.4.6.5 1.2 1.6 1.2 3.2v4.8c0 .5.3 1 1.2.8C29.1 30.9 34 24.5 34 17 34 7.6 26.4 0 17 0z" fill="#FFF"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">GITHUB</text>
+        </g>
+
+        <!-- VSCODE -->
+        <g transform="translate(650, 260)">
+          <path d="M 0 12 L 12 0 L 128 0 L 140 12 L 140 76 L 128 88 L 12 88 L 0 76 Z" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+          <!-- Tech Icon: VS Code -->
+          <g transform="translate(53, 12)">
+            <path d="M25.2 1.2l-12.7 12-7.5-5.7-3.8 1.9v15.2l3.8 1.9 7.5-5.7 12.7 12 7.6-3.7V4.9l-7.6-3.7zm0 23.3l-8.6-7.5 8.6-7.5v15z" fill="#007ACC"/>
+          </g>
+          <text x="70" y="74" fill="#E2E8F0" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">VSCODE</text>
+        </g>
+
+        <!-- RIGHT SIDE GLOBE WIREFRAME GRAPHIC -->
+        <g transform="translate(865, 180)" opacity="0.45">
+          <circle cx="40" cy="40" r="36" fill="none" stroke="#C026D3" stroke-width="1" stroke-dasharray="3,3"/>
+          <ellipse cx="40" cy="40" rx="36" ry="14" fill="none" stroke="#00F0FF" stroke-width="1"/>
+          <ellipse cx="40" cy="40" rx="14" ry="36" fill="none" stroke="#00F0FF" stroke-width="1"/>
+          <line x1="4" y1="40" x2="76" y2="40" stroke="#C026D3" stroke-width="1"/>
+          <line x1="40" y1="4" x2="40" y2="76" stroke="#C026D3" stroke-width="1"/>
+        </g>
+
+        <!-- BOTTOM SECTION: SPECIALIZATIONS -->
+        <g transform="translate(0, 390)">
+          <!-- Subtitle -->
+          <text x="70" y="20" fill="#C084FC" font-size="14" font-weight="700" letter-spacing="1.5">SPECIALIZATIONS // 05</text>
+          <line x1="70" y1="30" x2="930" y2="30" stroke="#8A2BE2" stroke-width="1" opacity="0.4"/>
+
+          <!-- 5 SPECIALIZATION PILLS -->
+          <!-- 1. Web Development -->
+          <g transform="translate(70, 48)">
+            <rect x="0" y="0" width="160" height="42" rx="12" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+            <text x="20" y="26" fill="#00F0FF" font-size="14" font-weight="bold">&lt;/&gt;</text>
+            <text x="50" y="25" fill="#E2E8F0" font-size="9" font-weight="bold" letter-spacing="0.5">WEB DEVELOPMENT</text>
+          </g>
+
+          <!-- 2. PHP -->
+          <g transform="translate(245, 48)">
+            <rect x="0" y="0" width="125" height="42" rx="12" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+            <ellipse cx="32" cy="21" rx="18" ry="10" fill="#777BB4"/>
+            <text x="32" y="24" font-size="9" font-weight="900" fill="#000" text-anchor="middle" font-style="italic">php</text>
+            <text x="70" y="25" fill="#E2E8F0" font-size="10" font-weight="bold" letter-spacing="1">PHP</text>
+          </g>
+
+          <!-- 3. SQL -->
+          <g transform="translate(385, 48)">
+            <rect x="0" y="0" width="125" height="42" rx="12" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+            <!-- Database Icon -->
+            <g transform="translate(20, 11)" fill="#C026D3">
+              <ellipse cx="10" cy="4" rx="10" ry="3"/>
+              <path d="M0 4v5c0 1.7 4.5 3 10 3s10-1.3 10-3V4"/>
+              <path d="M0 11v5c0 1.7 4.5 3 10 3s10-1.3 10-3v-5"/>
+            </g>
+            <text x="65" y="25" fill="#E2E8F0" font-size="10" font-weight="bold" letter-spacing="1">SQL</text>
+          </g>
+
+          <!-- 4. Microservices -->
+          <g transform="translate(525, 48)">
+            <rect x="0" y="0" width="170" height="42" rx="12" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+            <!-- Microservices Icon -->
+            <g transform="translate(18, 12)" stroke="#00F0FF" stroke-width="1.5" fill="none">
+              <rect x="6" y="0" width="6" height="6" rx="1"/>
+              <rect x="0" y="12" width="6" height="6" rx="1"/>
+              <rect x="12" y="12" width="6" height="6" rx="1"/>
+              <path d="M9 6v3M3 12V9h12v3"/>
+            </g>
+            <text x="48" y="25" fill="#E2E8F0" font-size="9" font-weight="bold" letter-spacing="0.5">MICROSERVICES</text>
+          </g>
+
+          <!-- 5. Game Dev -->
+          <g transform="translate(710, 48)">
+            <rect x="0" y="0" width="150" height="42" rx="12" fill="url(#card-bg)" stroke="#8A2BE2" stroke-width="1.5"/>
+            <!-- Gamepad Icon -->
+            <g transform="translate(18, 13)" fill="#E879F9">
+              <path d="M21 2H3C1.3 2 0 3.3 0 5v8c0 1.7 1.3 3 3 3h18c1.7 0 3-1.3 3-3V5c0-1.7-1.3-3-3-3zm-13 8H6v2H4v-2H2V8h2V6h2v2h2v2zm11 1c-.6 0-1-.4-1-1s.4-1 1-1 1 .4 1 1-.4 1-1 1zm2-3c-.6 0-1-.4-1-1s.4-1 1-1 1 .4 1 1-.4 1-1 1z"/>
+            </g>
+            <text x="56" y="25" fill="#E2E8F0" font-size="9" font-weight="bold" letter-spacing="0.5">GAME DEV</text>
+          </g>
+        </g>
+
+        <!-- FOOTER BAR -->
+        <g transform="translate(60, 545)">
+          <line x1="10" y1="0" x2="880" y2="0" stroke="#8A2BE2" stroke-width="1" opacity="0.3"/>
+          
+          <!-- User Tag -->
+          <g transform="translate(10, 20)">
+            <circle cx="8" cy="8" r="6" fill="#8A2BE2"/>
+            <path d="M8 4a2 2 0 100 4 2 2 0 000-4zm0 5c-2.7 0-5 1.3-5 2.5V13h10v-1.5c0-1.2-2.3-2.5-5-2.5z" fill="#FFF"/>
+            <text x="24" y="12" fill="#C084FC" font-size="12" font-weight="bold" letter-spacing="1.5">LEO.MOSCHETTO // DEVELOPER PROFILE</text>
+          </g>
+
+          <!-- Right Corner Slogan & Bars -->
+          <g transform="translate(680, 10)">
+            <text x="0" y="12" fill="#A855F7" font-size="9" font-weight="bold" letter-spacing="1">BETTER CODE</text>
+            <text x="0" y="24" fill="#A855F7" font-size="9" font-weight="bold" letter-spacing="1">BIGGER DREAMS</text>
+            <!-- Decorative diagonal bars -->
+            <path d="M 130 5 L 140 25 M 136 5 L 146 25 M 142 5 L 152 25" stroke="#C026D3" stroke-width="2" opacity="0.7"/>
+          </g>
+        </g>
+      </svg>
