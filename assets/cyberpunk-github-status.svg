@@ -11,42 +11,56 @@
     </pattern>
   </defs>
 
+  <!-- Fundo Principal com Borda Neon -->
   <rect x="5" y="5" width="940" height="170" rx="14" fill="#090014" stroke="url(#purpleGlow)" stroke-width="2.5" />
   <rect x="12" y="12" width="926" height="156" rx="10" fill="url(#hexGrid)" />
 
+  <!-- Moldura HUD Tática -->
   <path d="M 20 35 L 35 20 L 915 20 L 930 35 L 930 145 L 915 160 L 35 160 L 20 145 Z" fill="none" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.3" />
   
+  <!-- Detalhes HUD nos Cantos -->
   <path d="M 18 40 L 18 22 L 36 22" fill="none" stroke="#00F0FF" stroke-width="2" />
   <path d="M 932 40 L 932 22 L 914 22" fill="none" stroke="#00F0FF" stroke-width="2" />
   <path d="M 18 140 L 18 158 L 36 158" fill="none" stroke="#00F0FF" stroke-width="2" />
   <path d="M 932 140 L 932 158 L 914 158" fill="none" stroke="#00F0FF" stroke-width="2" />
 
+  <!-- CABEÇALHO DA SEÇÃO 04 -->
   <g transform="translate(45, 60)">
-    <text x="0" y="0" font-family="monospace" font-weight="900" fill="#D946EF" font-size="32">04</text>
-    <text x="55" y="0" font-family="monospace" font-weight="900" fill="#C026D3" font-size="32">//</text>
-    <text x="100" y="-2" font-family="sans-serif" font-weight="800" fill="#FFFFFF" font-size="26">GITHUB STATUS</text>
+    <text x="0" y="0" font-family="&#39;Courier New&#39;, Consolas, monospace" font-weight="900" fill="#D946EF" font-size="32">04</text>
+    <text x="55" y="0" font-family="&#39;Courier New&#39;, Consolas, monospace" font-weight="900" fill="#C026D3" font-size="32">//</text>
+    <text x="100" y="-2" font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="#FFFFFF" font-size="26">GITHUB STATUS</text>
     
+    <!-- Pílula de Status -->
     <g transform="translate(680, -22)">
       <rect x="0" y="0" width="180" height="28" rx="14" fill="#090014" stroke="#8A2BE2" stroke-width="1.5" />
-      <text x="18" y="18" font-family="monospace" font-size="11" fill="#00F0FF" font-weight="600">SYSTEM ONLINE</text>
-      <circle cx="160" cy="14" r="3.5" fill="#00F0FF" />
+      <text x="75" y="14" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" fill="#00F0FF" font-weight="600" text-anchor="middle" dominant-baseline="middle">SYSTEM ONLINE</text>
+      <circle cx="155" cy="14" r="3.5" fill="#00F0FF" />
     </g>
 
-    <text x="2" y="28" font-family="monospace" font-size="11" fill="#00F0FF" opacity="0.8">> ESTATISTICAS E METRICAS EM TEMPO REAL</text>
+    <text x="2" y="28" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" fill="#00F0FF" opacity="0.8">> ESTATISTICAS E METRICAS EM TEMPO REAL</text>
     <line x1="0" y1="40" x2="860" y2="40" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.4" />
     <line x1="0" y1="40" x2="220" y2="40" stroke="#00F0FF" stroke-width="1.5" />
   </g>
 
-  <g transform="translate(45, 130)">
-    <rect x="0" y="0" width="160" height="22" rx="4" fill="#8A2BE2" fill-opacity="0.15" stroke="#8A2BE2" stroke-width="1" />
-    <text x="12" y="15" font-family="monospace" font-size="10" fill="#C084FC">COMMITS: ACTIVE</text>
-
-    <rect x="175" y="0" width="160" height="22" rx="4" fill="#C026D3" fill-opacity="0.15" stroke="#C026D3" stroke-width="1" />
-    <text x="18" y="15" font-family="monospace" font-size="10" fill="#E9D5FF">LANGUAGES: OK</text>
-
-    <rect x="350" y="0" width="170" height="22" rx="4" fill="#00F0FF" fill-opacity="0.1" stroke="#00F0FF" stroke-width="1" />
-    <text x="15" y="15" font-family="monospace" font-size="10" fill="#00F0FF">STREAK: SYNC</text>
-
-    <text x="750" y="15" font-family="monospace" font-size="10" fill="#7C3AED">SEC_04</text>
+  <!-- MÉTROLOGIA TÁTICA / BADGES INFERIORES -->
+  <!-- Badge 1 (Esquerda) -->
+  <g transform="translate(45, 125)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="#8A2BE2" fill-opacity="0.15" stroke="#8A2BE2" stroke-width="1" />
+    <text x="80" y="12" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="10" fill="#C084FC" font-weight="600" text-anchor="middle" dominant-baseline="middle">COMMITS: ACTIVE</text>
   </g>
+
+  <!-- Badge 2 (Centro) -->
+  <g transform="translate(220, 125)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="#C026D3" fill-opacity="0.15" stroke="#C026D3" stroke-width="1" />
+    <text x="80" y="12" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="10" fill="#E9D5FF" font-weight="600" text-anchor="middle" dominant-baseline="middle">LANGUAGES: OK</text>
+  </g>
+
+  <!-- Badge 3 (Direita) -->
+  <g transform="translate(395, 125)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="#00F0FF" fill-opacity="0.1" stroke="#00F0FF" stroke-width="1" />
+    <text x="80" y="12" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="10" fill="#00F0FF" font-weight="600" text-anchor="middle" dominant-baseline="middle">STREAK: SYNC</text>
+  </g>
+
+  <!-- Tag de Secção (Extrema Direita) -->
+  <text x="880" y="137" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="10" fill="#7C3AED" text-anchor="end">SEC_04</text>
 </svg>
