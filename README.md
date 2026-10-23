@@ -100,7 +100,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-8A2BE2?style=for-the-badge&labelColor=090014" alt="Projetos em destaque"/>
+  <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-8A2BE2?style=for-the-badge&labelColor=090014" alt="Projetos em Destaque"/>
 </h2>
 
 <div align="center">
