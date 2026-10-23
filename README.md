@@ -95,20 +95,12 @@
 
 <div align="center">
 
-  ### `> FERRAMENTAS E TECNOLOGIAS`
+  <h2 align="center">
+  <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-C026D3?style=for-the-badge&labelColor=090014" alt="Tecnologias"/>
+</h2>
 
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
-
-  <br><br>
-
-  ![Web Development](https://img.shields.io/badge/WEB_DEVELOPMENT-8A2BE2?style=flat-square&labelColor=090014)
-  ![PHP](https://img.shields.io/badge/PHP-C026D3?style=flat-square&labelColor=090014)
-  ![SQL](https://img.shields.io/badge/SQL-9333EA?style=flat-square&labelColor=090014)
-  ![Microservices](https://img.shields.io/badge/MICROSERVICES-A855F7?style=flat-square&labelColor=090014)
-  ![Game Development](https://img.shields.io/badge/GAME_DEV-D946EF?style=flat-square&labelColor=090014)
-
+<div align="center">
+  <img src="./assets/cyberpunk-tech-stack.svg" width="100%" alt="Painel Cyberpunk — Tech Stack e Especializações"/>
 </div>
 
 ---
