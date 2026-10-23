@@ -50,39 +50,40 @@
   <h3>▸ FORMAÇÃO ACADÊMICA</h3>
 
   <table>
-    <tr>
-      <td align="center" width="70">🎓</td>
-      <td>
-        <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-        <sub>Formação concluída</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CONCLUÍDO-8A2BE2?style=flat-square&labelColor=090014" alt="Concluído"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">📚</td>
-      <td>
-        <strong>Engenharia de Software</strong><br>
-        <sub>Em conclusão</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/EM_ANDAMENTO-C026D3?style=flat-square&labelColor=090014" alt="Em andamento"/>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="60">🎓</td>
+    <td>
+      <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+      <sub>Formação concluída</sub>
+    </td>
+    <td align="center">
+      <strong>🟣 CONCLUÍDO</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📚</td>
+    <td>
+      <strong>Engenharia de Software</strong><br>
+      <sub>Em conclusão</sub>
+    </td>
+    <td align="center">
+      <strong>🟣 EM ANDAMENTO</strong>
+    </td>
+  </tr>
+</table>
 
   <br>
 
   <h3>▸ ÁREAS DE INTERESSE</h3>
 
-  <img src="https://img.shields.io/badge/WEB_DEV-8A2BE2?style=flat-square&labelColor=090014" alt="Desenvolvimento web"/>
-  <img src="https://img.shields.io/badge/PHP-C026D3?style=flat-square&labelColor=090014" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-9333EA?style=flat-square&labelColor=090014" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MICROSERVICES-A855F7?style=flat-square&labelColor=090014" alt="Microsserviços"/>
-  <img src="https://img.shields.io/badge/GAME_DEV-D946EF?style=flat-square&labelColor=090014" alt="Desenvolvimento de jogos"/>
-
-  <br><br>
+  <p>
+  <code>WEB DEVELOPMENT</code>
+  <code>PHP</code>
+  <code>SQL</code>
+  <code>MICROSERVICES</code>
+  <code>GAME DEV</code>
+    
+  </p>
 
 </div>
 
