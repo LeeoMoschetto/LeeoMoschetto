@@ -130,12 +130,13 @@
 
   <br><br>
 
+  <!-- CARTÕES DINÂMICOS DE STATS & LINGUAGENS -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais utilizadas"/>
 
   <br><br>
 
+  <!-- STREAK STATS -->
   <img src="https://streak-stats.demolab.com?user=LeeoMoschetto&theme=synthwave&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
