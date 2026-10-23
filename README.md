@@ -11,7 +11,9 @@
 
   <br>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=LeeoMoschetto&color=8A2BE2&style=for-the-badge&label=VISITANTES)
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeeoMoschetto&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Contador de visitas do perfil"/>
+</p>
 
 </div>
 
