@@ -23,21 +23,45 @@
 
 <div align="center">
 
-  ### `> QUEM SOU EU?`
-
-  Desenvolvedor apaixonado por tecnologia, criação de soluções e desenvolvimento de software.
-
-  Meu foco é transformar ideias em projetos funcionais, combinando lógica, criatividade e boas práticas de desenvolvimento.
-
-  🎓 **Análise e Desenvolvimento de Sistemas** — concluído
-
-  📚 **Engenharia de Software** — em conclusão
-
-  💻 **Interesses:** desenvolvimento web, microsserviços, bancos de dados e desenvolvimento de jogos.
-
+  <!-- PAINEL CYBERPUNK: SOBRE MIM -->
+<div align="center">
+  <img
+    src="./assets/cyberpunk-about-panel.svg"
+    width="100%"
+    alt="Painel Cyberpunk — Sobre mim"
+  />
 </div>
 
-<br>
+<div align="center">
+
+  <br>
+
+  <p>
+    Desenvolvedor apaixonado por tecnologia, criação de soluções
+    e desenvolvimento de software.
+  </p>
+
+  <p>
+    Meu foco é transformar ideias em projetos funcionais,
+    combinando lógica, criatividade e boas práticas de desenvolvimento.
+  </p>
+
+  <br>
+
+  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> — concluído
+
+  <br><br>
+
+  📚 <strong>Engenharia de Software</strong> — em conclusão
+
+  <br><br>
+
+  💻 <strong>Interesses:</strong> desenvolvimento web, microsserviços,
+  bancos de dados e desenvolvimento de jogos.
+
+  <br><br>
+
+</div>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-C026D3?style=for-the-badge&labelColor=090014" alt="Tecnologias"/>
