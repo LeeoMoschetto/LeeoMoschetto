@@ -47,15 +47,15 @@
     </pattern>
 
     <style>
-      700;900&family=Fira+Code:wght@400;500;600&display=swap');
-      .title-num { font-family: 'Orbitron', sans-serif; font-weight: 900; fill: #D946EF; font-size: 32px; letter-spacing: 2px; }
-      .title-main { font-family: 'Orbitron', sans-serif; font-weight: 800; fill: #FFFFFF; font-size: 26px; letter-spacing: 2px; }
+      700;900&family=Fira+Code:wght@400;500;600');
+      .title-num { font-family: 'Orbitron', system-ui, sans-serif; font-weight: 900; fill: #D946EF; font-size: 32px; letter-spacing: 2px; }
+      .title-main { font-family: 'Orbitron', system-ui, sans-serif; font-weight: 800; fill: #FFFFFF; font-size: 26px; letter-spacing: 2px; }
       .subtitle { font-family: 'Fira Code', monospace; font-size: 11px; fill: #00F0FF; font-weight: 600; letter-spacing: 2px; }
-      .card-title { font-family: 'Orbitron', sans-serif; font-weight: 700; fill: #FFFFFF; font-size: 18px; letter-spacing: 1px; }
-      .card-desc { font-family: 'Fira Code', monospace; font-size: 11px; fill: #A78BFA; line-height: 1.6; }
+      .card-title { font-family: 'Orbitron', system-ui, sans-serif; font-weight: 700; fill: #FFFFFF; font-size: 18px; letter-spacing: 1px; }
+      .card-desc { font-family: 'Fira Code', monospace; font-size: 11px; fill: #A78BFA; }
       .tag-text { font-family: 'Fira Code', monospace; font-size: 10px; fill: #00F0FF; font-weight: 600; }
-      .btn-text { font-family: 'Orbitron', sans-serif; font-size: 11px; fill: #FFFFFF; font-weight: 700; letter-spacing: 1px; }
-      .side-text { font-family: 'Orbitron', sans-serif; font-size: 10px; fill: #8A2BE2; writing-mode: vertical-rl; text-orientation: mixed; letter-spacing: 3px; }
+      .btn-text { font-family: 'Orbitron', system-ui, sans-serif; font-size: 11px; fill: #FFFFFF; font-weight: 700; letter-spacing: 1px; }
+      .side-text { font-family: 'Orbitron', system-ui, sans-serif; font-size: 10px; fill: #8A2BE2; writing-mode: vertical-rl; text-orientation: mixed; letter-spacing: 3px; }
       .footer-text { font-family: 'Fira Code', monospace; font-size: 10px; fill: #7C3AED; letter-spacing: 1.5px; }
     </style>
   </defs>
@@ -69,59 +69,50 @@
   <!-- Moldura HUD Tática (Cantos Cortados) -->
   <path d="M 25 45 L 45 25 L 905 25 L 925 45 L 925 585 L 905 605 L 45 605 L 25 585 Z" fill="none" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.3" />
   
-  <!-- Detalhes HUD nos Cantos superiores/inferiores -->
+  <!-- Detalhes HUD nos Cantos -->
   <path d="M 20 50 L 20 30 L 40 30" fill="none" stroke="#00F0FF" stroke-width="2" filter="url(#neonBlur)" />
   <path d="M 930 50 L 930 30 L 910 30" fill="none" stroke="#00F0FF" stroke-width="2" filter="url(#neonBlur)" />
   <path d="M 20 580 L 20 600 L 40 600" fill="none" stroke="#00F0FF" stroke-width="2" filter="url(#neonBlur)" />
   <path d="M 930 580 L 930 600 L 910 600" fill="none" stroke="#00F0FF" stroke-width="2" filter="url(#neonBlur)" />
 
-  <!-- CABEÇALHO DA SEÇÃO (CORRIGIDO) -->
+  <!-- CABEÇALHO DA SEÇÃO -->
   <g transform="translate(45, 65)">
-    <!-- Título Principal -->
     <text x="0" y="0" class="title-num" filter="url(#strongGlow)">03</text>
     <text x="55" y="0" class="title-num" fill="#C026D3">//</text>
     <text x="100" y="-2" class="title-main" filter="url(#neonBlur)">FEATURED PROJECTS</text>
     
-    <!-- Pílula de Status (Reposicionada para x=670 sem cobrir o texto) -->
+    <!-- Pílula de Status -->
     <g transform="translate(670, -22)">
       <rect x="0" y="0" width="190" height="28" rx="14" fill="#090014" stroke="#8A2BE2" stroke-width="1.5" filter="url(#neonBlur)" />
       <text x="18" y="18" class="subtitle">>_ REPOSITORIES ONLINE</text>
       <circle cx="170" cy="14" r="3.5" fill="#00F0FF" filter="url(#strongGlow)" />
     </g>
 
-    <!-- Subtítulo e Linha Guia -->
+    <!-- Subtítulo e Linhas Guia -->
     <text x="2" y="28" class="subtitle" opacity="0.8">> PROJETOS EM DESTAQUE E REPOSITÓRIOS ATIVOS</text>
     <line x1="0" y1="40" x2="860" y2="40" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.4" />
     <line x1="0" y1="40" x2="220" y2="40" stroke="#00F0FF" stroke-width="1.5" filter="url(#neonBlur)" />
   </g>
 
-  <!-- CONTEÚDO DOS CARDS DE PROJETO -->
-
   <!-- CARD 1: CATÁLOGO STREETWEAR (ESQUERDA) -->
   <g transform="translate(45, 140)">
-    <!-- Fundo do Card -->
     <rect x="0" y="0" width="415" height="420" rx="12" fill="url(#cardBg)" stroke="#8A2BE2" stroke-width="1.5" filter="url(#neonBlur)" />
     
-    <!-- Topo do Card / Header -->
     <path d="M 0 12 Q 0 0 12 0 L 403 0 Q 415 0 415 12 L 415 45 L 0 45 Z" fill="#1A0B36" opacity="0.6" />
     <line x1="0" y1="45" x2="415" y2="45" stroke="#C026D3" stroke-width="1" />
     <text x="20" y="28" class="subtitle" fill="#D946EF">PROJECT 01 // FEATURED</text>
 
-    <!-- Status Badge -->
     <g transform="translate(290, 12)">
       <rect x="0" y="0" width="105" height="22" rx="4" fill="#00F0FF" fill-opacity="0.1" stroke="#00F0FF" stroke-width="1" />
       <text x="12" y="15" class="tag-text" fill="#00F0FF">● DEPLOYED</text>
     </g>
 
-    <!-- Título do Projeto e Ícone -->
     <g transform="translate(20, 80)">
-      <!-- Ícone de Pasta/Código -->
       <rect x="0" y="0" width="36" height="36" rx="8" fill="#8A2BE2" fill-opacity="0.2" stroke="#8A2BE2" stroke-width="1" />
       <path d="M 10 14 L 16 18 L 10 22 M 20 22 L 26 22" fill="none" stroke="#00F0FF" stroke-width="2" stroke-linecap="round" />
       <text x="50" y="24" class="card-title">Catálogo Streetwear</text>
     </g>
 
-    <!-- Descrição -->
     <g transform="translate(20, 140)">
       <text x="0" y="0" class="card-desc">Plataforma e catálogo digital para exibição</text>
       <text x="0" y="20" class="card-desc">de produtos urbanos e tênis, focada em uma</text>
@@ -129,56 +120,45 @@
       <text x="0" y="60" class="card-desc">e navegação responsiva e intuitiva.</text>
     </g>
 
-    <!-- Tech Badges -->
     <g transform="translate(20, 240)">
-      <!-- HTML5 -->
       <rect x="0" y="0" width="75" height="24" rx="4" fill="#E44D26" fill-opacity="0.15" stroke="#E44D26" stroke-width="1" />
       <text x="18" y="16" class="tag-text" fill="#FF7B54">HTML5</text>
-      <!-- CSS3 -->
+      
       <rect x="85" y="0" width="70" height="24" rx="4" fill="#264DE4" fill-opacity="0.15" stroke="#264DE4" stroke-width="1" />
       <text x="103" y="16" class="tag-text" fill="#6699FF">CSS3</text>
-      <!-- JS -->
+
       <rect x="165" y="0" width="100" height="24" rx="4" fill="#F7DF1E" fill-opacity="0.15" stroke="#F7DF1E" stroke-width="1" />
       <text x="178" y="16" class="tag-text" fill="#F7DF1E">JAVASCRIPT</text>
     </g>
 
-    <!-- Botão de Ação (Acessar Repositório) -->
     <g transform="translate(20, 335)">
       <rect x="0" y="0" width="375" height="50" rx="8" fill="url(#btnBg)" stroke="#C026D3" stroke-width="1.5" filter="url(#neonBlur)" />
       <text x="105" y="30" class="btn-text">ACESSAR REPOSITÓRIO</text>
-
       <path d="M 335 25 L 345 25 M 341 20 L 346 25 L 341 30" fill="none" stroke="#00F0FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     </g>
   </g>
 
   <!-- CARD 2: NEXT PROJECT / GAME DEV (DIREITA) -->
   <g transform="translate(490, 140)">
-    <!-- Fundo do Card -->
     <rect x="0" y="0" width="415" height="420" rx="12" fill="url(#cardBg)" stroke="#8A2BE2" stroke-width="1" stroke-dasharray="6,4" opacity="0.85" />
     
-    <!-- Topo do Card / Header -->
     <path d="M 0 12 Q 0 0 12 0 L 403 0 Q 415 0 415 12 L 415 45 L 0 45 Z" fill="#120626" opacity="0.8" />
     <line x1="0" y1="45" x2="415" y2="45" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.4" />
     <text x="20" y="28" class="subtitle" fill="#8A2BE2">PROJECT 02 // IN DEVELOPMENT</text>
 
-    <!-- Status Badge -->
     <g transform="translate(280, 12)">
       <rect x="0" y="0" width="115" height="22" rx="4" fill="#C026D3" fill-opacity="0.1" stroke="#C026D3" stroke-width="1" />
       <text x="10" y="15" class="tag-text" fill="#D946EF">⚙ BUILDING...</text>
     </g>
 
-    <!-- Título do Projeto e Ícone -->
     <g transform="translate(20, 80)">
-      <!-- Ícone Gamepad / Dev -->
       <rect x="0" y="0" width="36" height="36" rx="8" fill="#C026D3" fill-opacity="0.15" stroke="#C026D3" stroke-width="1" />
-      <!-- Gamepad Icon path -->
       <path d="M 10 18 L 26 18 M 18 10 L 18 26" fill="none" stroke="#D946EF" stroke-width="2" stroke-linecap="round" />
       <circle cx="24" cy="14" r="1.5" fill="#00F0FF" />
       <circle cx="22" cy="22" r="1.5" fill="#00F0FF" />
       <text x="50" y="24" class="card-title" fill="#E9D5FF">Game Dev / Cyber App</text>
     </g>
 
-    <!-- Descrição Teaser -->
     <g transform="translate(20, 140)">
       <text x="0" y="0" class="card-desc" fill="#8B5CF6">> NOVO PROJETO EM FASE DE PLANEJAMENTO.</text>
       <text x="0" y="25" class="card-desc">Desenvolvimento focado em mecânicas de jogo,</text>
@@ -186,31 +166,28 @@
       <text x="0" y="65" class="card-desc">web interativa com temática futurista.</text>
     </g>
 
-    <!-- Tech Badges Previstas -->
     <g transform="translate(20, 240)">
-      <!-- GAME DEV -->
       <rect x="0" y="0" width="85" height="24" rx="4" fill="#A855F7" fill-opacity="0.15" stroke="#A855F7" stroke-width="1" />
       <text x="12" y="16" class="tag-text" fill="#C084FC">GAME DEV</text>
-      <!-- PHP / SQL -->
+      
       <rect x="95" y="0" width="60" height="24" rx="4" fill="#8A2BE2" fill-opacity="0.15" stroke="#8A2BE2" stroke-width="1" />
       <text x="108" y="16" class="tag-text" fill="#A78BFA">PHP</text>
-      <!-- C# / ENGINE -->
+
       <rect x="165" y="0" width="105" height="24" rx="4" fill="#00F0FF" fill-opacity="0.1" stroke="#00F0FF" stroke-width="1" />
       <text x="175" y="16" class="tag-text" fill="#00F0FF">MICROSERVICES</text>
     </g>
 
-    <!-- Botão / Card Placeholder de Progresso -->
     <g transform="translate(20, 335)">
       <rect x="0" y="0" width="375" height="50" rx="8" fill="#120626" stroke="#8A2BE2" stroke-width="1" stroke-dasharray="4,4" />
       <text x="80" y="30" class="btn-text" fill="#8A2BE2">[ SYSTEM INITIALIZING... ]</text>
     </g>
   </g>
 
-  <!-- DECORAÇÕES LATERAIS E RODAPÉ -->
+  <!-- DECORAÇÕES LATERAIS -->
   <text x="15" y="220" class="side-text" opacity="0.5">LEO.MOSCHETTO // PROJECTS</text>
   <text x="938" y="220" class="side-text" opacity="0.5">NIGHT CITY 2077 // HUD</text>
 
-  <!-- Rodapé -->
+  <!-- RODAPÉ -->
   <g transform="translate(45, 592)">
     <circle cx="0" cy="-4" r="3" fill="#00F0FF" filter="url(#neonBlur)" />
     <text x="12" y="0" class="footer-text">SEC_03 // REPOSITORIES_GRID_ACTIVE</text>
