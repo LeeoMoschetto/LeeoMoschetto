@@ -89,12 +89,6 @@
 
 </div>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-C026D3?style=for-the-badge&labelColor=090014" alt="Tecnologias"/>
-</h2>
-
-<div align="center">
-
   <h2 align="center">
   <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-C026D3?style=for-the-badge&labelColor=090014" alt="Tecnologias"/>
 </h2>
