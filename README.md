@@ -104,33 +104,13 @@
 </h2>
 
 <div align="center">
-
-  ### `> PROJETO EM DESTAQUE`
-
   <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeeoMoschetto&repo=catalogo-streetwear&theme=synthwave&hide_border=true" alt="Projeto Catálogo Streetwear"/>
+    <img
+      src="./assets/cyberpunk-featured-projects.svg"
+      width="100%"
+      alt="Painel Cyberpunk — Projetos em Destaque"
+    />
   </a>
-
-</div>
-
-### 🏙️ Catálogo Streetwear
-
-Projeto de catálogo digital para apresentação de tênis, com foco em uma identidade visual urbana e moderna.
-
-**Principais características:**
-- Catálogo de produtos com imagens.
-- Exibição de preços, cores e numerações.
-- Interface desenvolvida com HTML, CSS e JavaScript.
-- Identidade visual inspirada na cultura streetwear.
-
-**Objetivo:** desenvolver uma experiência de navegação atraente e apresentar produtos de maneira organizada.
-
-<div align="center">
-
-  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
-    <img src="https://img.shields.io/badge/ACESSAR_REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório"/>
-  </a>
-
 </div>
 
 ---
