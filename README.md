@@ -150,13 +150,19 @@
 
 <div align="center">
 
-  ### `> SYSTEM PHILOSOPHY`
+  <!-- PAINEL CYBERPUNK: MENTALIDADE -->
+  <img
+    src="./assets/cyberpunk-mindset.svg"
+    width="100%"
+    alt="Painel Cyberpunk — Mentalidade e Filosofia"
+  />
 
-  **CODE. BUILD. EVOLVE.**
+  <br><br>
 
-  Acredito que cada projeto é uma oportunidade de aprender, evoluir e transformar ideias em soluções reais.
-
-  Meu objetivo é continuar desenvolvendo minhas habilidades, explorando novas tecnologias e construindo projetos cada vez melhores.
+  <p align="center">
+    Acredito que cada projeto é uma oportunidade de aprender, evoluir e transformar ideias em soluções reais.<br>
+    Meu objetivo é continuar a desenvolver as minhas competências, explorar novas tecnologias e construir projetos cada vez melhores.
+  </p>
 
   <br>
 
@@ -164,8 +170,9 @@
 
 </div>
 
-<br>
+<br><br>
 
+<!-- RODAPÉ CYBERPUNK -->
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:4C1D95,100:C026D3&height=3&section=footer" width="100%" alt="Divisória neon"/>
