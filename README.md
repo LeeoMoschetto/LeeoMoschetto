@@ -36,28 +36,51 @@
 
   <br>
 
-  <p>
-    Desenvolvedor apaixonado por tecnologia, criação de soluções
-    e desenvolvimento de software.
-  </p>
+  <img src="https://img.shields.io/badge/PROFILE-ONLINE-8A2BE2?style=for-the-badge&labelColor=090014" alt="Perfil online"/>
+
+  <br><br>
 
   <p>
-    Meu foco é transformar ideias em projetos funcionais,
-    combinando lógica, criatividade e boas práticas de desenvolvimento.
+    Desenvolvedor apaixonado por tecnologia, focado em transformar
+    ideias em soluções funcionais por meio do código.
   </p>
 
   <br>
 
-  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> — concluído
+  <h3>▸ FORMAÇÃO ACADÊMICA</h3>
 
-  <br><br>
+  <table>
+    <tr>
+      <td align="center" width="70">🎓</td>
+      <td>
+        <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+        <sub>Formação concluída</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CONCLUÍDO-8A2BE2?style=flat-square&labelColor=090014" alt="Concluído"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">📚</td>
+      <td>
+        <strong>Engenharia de Software</strong><br>
+        <sub>Em conclusão</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/EM_ANDAMENTO-C026D3?style=flat-square&labelColor=090014" alt="Em andamento"/>
+      </td>
+    </tr>
+  </table>
 
-  📚 <strong>Engenharia de Software</strong> — em conclusão
+  <br>
 
-  <br><br>
+  <h3>▸ ÁREAS DE INTERESSE</h3>
 
-  💻 <strong>Interesses:</strong> desenvolvimento web, microsserviços,
-  bancos de dados e desenvolvimento de jogos.
+  <img src="https://img.shields.io/badge/WEB_DEV-8A2BE2?style=flat-square&labelColor=090014" alt="Desenvolvimento web"/>
+  <img src="https://img.shields.io/badge/PHP-C026D3?style=flat-square&labelColor=090014" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-9333EA?style=flat-square&labelColor=090014" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MICROSERVICES-A855F7?style=flat-square&labelColor=090014" alt="Microsserviços"/>
+  <img src="https://img.shields.io/badge/GAME_DEV-D946EF?style=flat-square&labelColor=090014" alt="Desenvolvimento de jogos"/>
 
   <br><br>
 
