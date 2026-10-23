@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/cyberpunk-banner.png" width="100%" alt="Banner cyberpunk de LeeoMoschetto" />
+<img src="./assets/cyberpunk-banner-chuva-animada.svg" width="100%" alt="Banner cyberpunk de LeeoMoschetto" />
 
 <br/>
 
