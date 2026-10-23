@@ -22,14 +22,11 @@
   <!-- Moldura HUD Tática -->
   <path d="M 20 35 L 35 20 L 915 20 L 930 35 L 930 145 L 915 160 L 35 160 L 20 145 Z" fill="none" stroke="#8A2BE2" stroke-width="1" stroke-opacity="0.3" />
   
-  <!-- Detalhes HUD nos Cantos (Com animação nativa de pulso) -->
-  <g stroke="#00F0FF" stroke-width="2" fill="none">
-    <path d="M 18 40 L 18 22 L 36 22" />
-    <path d="M 932 40 L 932 22 L 914 22" />
-    <path d="M 18 140 L 18 158 L 36 158" />
-    <path d="M 932 140 L 932 158 L 914 158" />
-    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" />
-  </g>
+  <!-- Detalhes HUD nos Cantos -->
+  <path d="M 18 40 L 18 22 L 36 22" fill="none" stroke="#00F0FF" stroke-width="2" />
+  <path d="M 932 40 L 932 22 L 914 22" fill="none" stroke="#00F0FF" stroke-width="2" />
+  <path d="M 18 140 L 18 158 L 36 158" fill="none" stroke="#00F0FF" stroke-width="2" />
+  <path d="M 932 140 L 932 158 L 914 158" fill="none" stroke="#00F0FF" stroke-width="2" />
 
   <!-- CABEÇALHO DA SEÇÃO 04 -->
   <g transform="translate(45, 60)">
@@ -42,11 +39,7 @@
     <g transform="translate(660, -22)">
       <rect x="0" y="0" width="200" height="28" rx="14" fill="#090014" stroke="#8A2BE2" stroke-width="1.5" />
       <text x="18" y="18" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" fill="#00F0FF" font-weight="600" letter-spacing="2">>_ METRICS STREAMING</text>
-      
-      <!-- Círculo com Animação Nativa de Piscar (Blink) -->
-      <circle cx="180" cy="14" r="3.5" fill="#00F0FF">
-        <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite" />
-      </circle>
+      <circle cx="180" cy="14" r="3.5" fill="#00F0FF" />
     </g>
 
     <!-- Subtítulo e Linhas Guia -->
@@ -55,7 +48,7 @@
     <line x1="0" y1="40" x2="310" y2="40" stroke="#00F0FF" stroke-width="1.5" />
   </g>
 
-  <!-- METROLOGIA TÁTICA / METRICS SUMMARY -->
+  <!-- MÉTROLOGIA TÁTICA / METRICS SUMMARY -->
   <g transform="translate(45, 130)">
     <rect x="0" y="0" width="160" height="22" rx="4" fill="#8A2BE2" fill-opacity="0.15" stroke="#8A2BE2" stroke-width="1" />
     <text x="12" y="15" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="10" fill="#C084FC" font-weight="600">SYS_COMMITS: ACTIVE</text>
