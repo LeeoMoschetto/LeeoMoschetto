@@ -121,6 +121,15 @@
 
 <div align="center">
 
+  <!-- PAINEL CYBERPUNK: GITHUB STATUS -->
+  <img
+    src="./assets/cyberpunk-github-status.svg"
+    width="100%"
+    alt="Painel Cyberpunk — Estatísticas do GitHub"
+  />
+
+  <br><br>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais utilizadas"/>
