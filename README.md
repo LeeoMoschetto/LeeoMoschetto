@@ -1,157 +1,154 @@
- <div align="center">
+<!-- BANNER CYBERPUNK COM CHUVA ANIMADA -->
+<div align="center">
+  <img src="./assets/cyberpunk-banner-chuva-animada.svg" width="100%" alt="Leeо Moschetto — Cyberpunk Neon"/>
+</div>
 
-<img src="./assets/cyberpunk-banner-chuva-animada.svg" width="100%" alt="Banner cyberpunk de LeeoMoschetto" />
+<br>
 
-<br/>
+<div align="center">
 
-# 🟣 LEEO MOSCHETTO
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=INICIALIZANDO+SISTEMA...;DESENVOLVEDOR+%7C+CRIADOR+%7C+INOVADOR;TRANSFORMANDO+IDEIAS+EM+SOLU%C3%87%C3%95ES;WELCOME+TO+MY+CYBERSPACE" alt="Animação de apresentação"/>
 
-### DESENVOLVEDOR DE SOFTWARE • TECNOLOGIA • INOVAÇÃO
+  <br>
 
-`CÓDIGO` // `CONSTRUIR` // `EVOLUIR`
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="Sistema online" />
-<img src="https://img.shields.io/badge/CLASS-DEVELOPER-0D0D12?style=for-the-badge&labelColor=0D0D12&color=FF00FF" alt="Desenvolvedor" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=LeeoMoschetto&color=8A2BE2&style=for-the-badge&label=VISITANTES)
 
 </div>
 
 ---
 
-## 👾 // SOBRE MIM
-
-Olá! Eu sou **LeeoMoschetto**, desenvolvedor apaixonado por tecnologia, arquitetura de software e criação de soluções digitais.
-
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas — concluído.
-
-📚 **Atualmente:** finalizando a graduação em Engenharia de Software.
-
-💻 Tenho interesse e experiência em diferentes áreas do desenvolvimento, buscando criar soluções organizadas, eficientes e que resolvam problemas reais.
-
-```text
-> INICIALIZANDO PERFIL...
-> ÁREA: DESENVOLVIMENTO DE SOFTWARE
-> FOCO: TECNOLOGIA E SOLUÇÕES DIGITAIS
-> STATUS: EM CONSTANTE EVOLUÇÃO
-```
-
----
-
-## ⚙️ // ARSENAL TECNOLÓGICO
+<h2 align="center">
+  <img src="https://img.shields.io/badge/01-ABOUT_ME-8A2BE2?style=for-the-badge&labelColor=090014" alt="About Me"/>
+</h2>
 
 <div align="center">
 
-### 💻 DESENVOLVIMENTO WEB
+  ### `> QUEM SOU EU?`
 
-<img src="https://img.shields.io/badge/HTML5-0D0D12?style=for-the-badge&logo=html5&logoColor=FF00FF" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D0D12?style=for-the-badge&logo=css3&logoColor=B266FF" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-0D0D12?style=for-the-badge&logo=php&logoColor=B266FF" alt="PHP" />
+  Desenvolvedor apaixonado por tecnologia, criação de soluções e desenvolvimento de software.
 
-### 🗄️ BANCOS DE DADOS
+  Meu foco é transformar ideias em projetos funcionais, combinando lógica, criatividade e boas práticas de desenvolvimento.
 
-<img src="https://img.shields.io/badge/SQL-0D0D12?style=for-the-badge&logo=databricks&logoColor=B266FF" alt="SQL" />
+  🎓 **Análise e Desenvolvimento de Sistemas** — concluído
 
-### 🧠 ÁREAS DE ATUAÇÃO E INTERESSE
+  📚 **Engenharia de Software** — em conclusão
 
-<img src="https://img.shields.io/badge/MICROSSERVIÇOS-0D0D12?style=for-the-badge&logo=icloud&logoColor=FF00FF" alt="Microsserviços" />
-<img src="https://img.shields.io/badge/ENGENHARIA_DE_SOFTWARE-0D0D12?style=for-the-badge&logo=blueprint&logoColor=B266FF" alt="Engenharia de software" />
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO_DE_JOGOS-0D0D12?style=for-the-badge&logo=unrealengine&logoColor=FF00FF" alt="Desenvolvimento de jogos" />
+  💻 **Interesses:** desenvolvimento web, microsserviços, bancos de dados e desenvolvimento de jogos.
+
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-C026D3?style=for-the-badge&labelColor=090014" alt="Tecnologias"/>
+</h2>
+
+<div align="center">
+
+  ### `> FERRAMENTAS E TECNOLOGIAS`
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
+
+  <br><br>
+
+  ![Web Development](https://img.shields.io/badge/WEB_DEVELOPMENT-8A2BE2?style=flat-square&labelColor=090014)
+  ![PHP](https://img.shields.io/badge/PHP-C026D3?style=flat-square&labelColor=090014)
+  ![SQL](https://img.shields.io/badge/SQL-9333EA?style=flat-square&labelColor=090014)
+  ![Microservices](https://img.shields.io/badge/MICROSERVICES-A855F7?style=flat-square&labelColor=090014)
+  ![Game Development](https://img.shields.io/badge/GAME_DEV-D946EF?style=flat-square&labelColor=090014)
 
 </div>
 
 ---
 
-## 🚀 // ARQUIVO DE PROJETOS
-
-### 👟 01 — CATÁLOGO STREETWEAR
-
-> Um catálogo digital de tênis desenvolvido para apresentar produtos de maneira organizada, moderna e visualmente atraente.
-
-**Funcionalidades do projeto:**
-
-- Exibição de produtos com imagens.
-- Informações de preços, numerações e cores.
-- Organização visual do catálogo.
-- Interface construída com HTML, CSS e JavaScript.
-
-**Tecnologias utilizadas:**
-
-<img src="https://img.shields.io/badge/HTML5-0D0D12?style=flat-square&logo=html5&logoColor=FF00FF" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D0D12?style=flat-square&logo=css3&logoColor=B266FF" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0D0D12?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-8A2BE2?style=for-the-badge&labelColor=090014" alt="Projetos em destaque"/>
+</h2>
 
 <div align="center">
 
-<a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
-  <img src="https://img.shields.io/badge/⌁_ACESSAR_REPOSITÓRIO-0D0D12?style=for-the-badge&logo=github&logoColor=B266FF" alt="Acessar repositório do catálogo Streetwear" />
-</a>
+  ### `> PROJETO EM DESTAQUE`
+
+  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeeoMoschetto&repo=catalogo-streetwear&theme=synthwave&hide_border=true" alt="Projeto Catálogo Streetwear"/>
+  </a>
 
 </div>
 
-> **STATUS DO PROJETO:** desenvolvimento e preparação para publicação.
+### 🏙️ Catálogo Streetwear
 
----
+Projeto de catálogo digital para apresentação de tênis, com foco em uma identidade visual urbana e moderna.
 
-## 🎓 // FORMAÇÃO ACADÊMICA
+**Principais características:**
+- Catálogo de produtos com imagens.
+- Exibição de preços, cores e numerações.
+- Interface desenvolvida com HTML, CSS e JavaScript.
+- Identidade visual inspirada na cultura streetwear.
+
+**Objetivo:** desenvolver uma experiência de navegação atraente e apresentar produtos de maneira organizada.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-ANÁLISE_E_DESENVOLVIMENTO_DE_SISTEMAS-0D0D12?style=for-the-badge&labelColor=0D0D12&color=9D00FF" alt="Análise e Desenvolvimento de Sistemas" />
-
-**Graduação concluída**
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-ENGENHARIA_DE_SOFTWARE-0D0D12?style=for-the-badge&labelColor=0D0D12&color=FF00FF" alt="Engenharia de Software" />
-
-**Graduação em andamento — fase final**
+  <a href="https://github.com/LeeoMoschetto/catalogo-streetwear">
+    <img src="https://img.shields.io/badge/ACESSAR_REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório"/>
+  </a>
 
 </div>
 
 ---
 
-## 📊 // SYSTEM STATUS — GITHUB
+<h2 align="center">
+  <img src="https://img.shields.io/badge/04-GITHUB_STATUS-C026D3?style=for-the-badge&labelColor=090014" alt="Estatísticas do GitHub"/>
+</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=B266FF&icon_color=FF00FF&text_color=E6E6FA&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de LeeoMoschetto" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeeoMoschetto&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&hide_border=true&bg_color=0D0D12&title_color=B266FF&text_color=E6E6FA&locale=pt-br" alt="Linguagens dos repositórios de LeeoMoschetto" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoMoschetto&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais utilizadas"/>
 
-<br/><br/>
+  <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=LeeoMoschetto&color=9D00FF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
-
-</div>
-
-<sub>Os cartões dependem de serviços externos e podem apresentar indisponibilidade. As linguagens exibidas representam os repositórios analisados, não uma avaliação do nível de conhecimento.</sub>
-
----
-
-## 🌌 // FILOSOFIA DE DESENVOLVIMENTO
-
-<div align="center">
-
-### `O FUTURO É CONSTRUÍDO COM CÓDIGO.`
-
-*Disciplina hoje. Evolução constante. Resultados amanhã.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/CÓDIGO-9D00FF?style=for-the-badge&labelColor=0D0D12" alt="Código" />
-<img src="https://img.shields.io/badge/CONSTRUIR-FF00FF?style=for-the-badge&labelColor=0D0D12" alt="Construir" />
-<img src="https://img.shields.io/badge/EVOLUIR-9D00FF?style=for-the-badge&labelColor=0D0D12" alt="Evoluir" />
-
-<br/><br/>
-
-**[ SISTEMA ATIVO ] — [ PRÓXIMO NÍVEL: EM CONSTRUÇÃO ]**
+  <img src="https://streak-stats.demolab.com?user=LeeoMoschetto&theme=synthwave&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
 ---
 
+<h2 align="center">
+  <img src="https://img.shields.io/badge/05-MY_MINDSET-8A2BE2?style=for-the-badge&labelColor=090014" alt="Mentalidade"/>
+</h2>
+
 <div align="center">
 
-<sub>LEEO MOSCHETTO © • DESENVOLVIDO COM CURIOSIDADE, CÓDIGO E CRIATIVIDADE</sub>
+  ### `> SYSTEM PHILOSOPHY`
+
+  **CODE. BUILD. EVOLVE.**
+
+  Acredito que cada projeto é uma oportunidade de aprender, evoluir e transformar ideias em soluções reais.
+
+  Meu objetivo é continuar desenvolvendo minhas habilidades, explorando novas tecnologias e construindo projetos cada vez melhores.
+
+  <br>
+
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_EVOLVING-8A2BE2?style=for-the-badge&labelColor=090014" alt="Status: em constante evolução"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:4C1D95,100:C026D3&height=3&section=footer" width="100%" alt="Divisória neon"/>
+
+  <br>
+
+  <samp>O FUTURO É CONSTRUÍDO COM CÓDIGO.</samp>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/NIGHT_CITY-2077-8A2BE2?style=flat-square&labelColor=090014" alt="Night City 2077"/>
 
 </div>
