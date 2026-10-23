@@ -26,65 +26,46 @@
 <div align="center">
 
   <!-- PAINEL CYBERPUNK: SOBRE MIM -->
-<div align="center">
   <img
     src="./assets/cyberpunk-about-panel.svg"
     width="100%"
     alt="Painel Cyberpunk — Sobre mim"
   />
-</div>
 
-<div align="center">
-
-  <br>
+  <br><br>
 
   <img src="https://img.shields.io/badge/PROFILE-ONLINE-8A2BE2?style=for-the-badge&labelColor=090014" alt="Perfil online"/>
 
   <br><br>
 
-  <p>
-    Desenvolvedor apaixonado por tecnologia, focado em transformar
-    ideias em soluções funcionais por meio do código.
+  <p align="center">
+    Desenvolvedor apaixonado por tecnologia, focado em transformar ideias em soluções funcionais por meio do código.
   </p>
 
   <br>
 
-  <h3>▸ FORMAÇÃO ACADÊMICA</h3>
+  <!-- BLOCOS DE FORMAÇÃO ACADÊMICA TIPO HUD -->
+  <h3><code>// FORMAÇÃO ACADÊMICA</code></h3>
+  <br>
 
-  <table>
-  <tr>
-    <td align="center" width="60">🎓</td>
-    <td>
-      <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-      <sub>Formação concluída</sub>
-    </td>
-    <td align="center">
-      <strong>🟣 CONCLUÍDO</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📚</td>
-    <td>
-      <strong>Engenharia de Software</strong><br>
-      <sub>Em conclusão</sub>
-    </td>
-    <td align="center">
-      <strong>🟣 EM ANDAMENTO</strong>
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎓_ANÁLISE_E_DESENVOLVIMENTO_DE_SISTEMAS-CONCLUÍDO-090014?style=for-the-badge&color=8A2BE2&labelColor=090014&border_color=00F0FF" alt="ADS Concluído"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/📚_ENGENHARIA_DE_SOFTWARE-EM_ANDAMENTO-090014?style=for-the-badge&color=C026D3&labelColor=090014&border_color=8A2BE2" alt="Engenharia de Software Em Andamento"/>
+  </p>
 
   <br>
 
-  <h3>▸ ÁREAS DE INTERESSE</h3>
+  <!-- ÁREAS DE INTERESSE EM FORMATO CYBERPUNK -->
+  <h3><code>// ÁREAS DE INTERESSE</code></h3>
+  <br>
 
-  <p>
-  <code>WEB DEVELOPMENT</code>
-  <code>PHP</code>
-  <code>SQL</code>
-  <code>MICROSERVICES</code>
-  <code>GAME DEV</code>
-    
+  <p align="center">
+    <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-090014?style=flat-square&color=8A2BE2&labelColor=090014" alt="Web Development"/>
+    <img src="https://img.shields.io/badge/PHP-090014?style=flat-square&color=C026D3&labelColor=090014" alt="PHP"/>
+    <img src="https://img.shields.io/badge/SQL-090014?style=flat-square&color=00F0FF&labelColor=090014" alt="SQL"/>
+    <img src="https://img.shields.io/badge/MICROSERVICES-090014?style=flat-square&color=8A2BE2&labelColor=090014" alt="Microservices"/>
+    <img src="https://img.shields.io/badge/GAME_DEV-090014?style=flat-square&color=C026D3&labelColor=090014" alt="Game Dev"/>
   </p>
 
 </div>
